@@ -3,7 +3,7 @@
 <head>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <title>
-       
+       Customer Details
     </title>
 </head>
 
